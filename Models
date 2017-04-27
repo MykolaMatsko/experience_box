@@ -1,0 +1,28 @@
+
+Model Movie:
+	-	title:				string
+	-	description:	text
+	-	director:			string
+	-	length:				string
+	-	rating: 			string
+	-	comment:			string
+	-	watched:			bool
+
+
+Model Book:
+	-	title:				string
+	-	description:	text
+	-	author:				string
+	-	pages:				string
+	-	rating: 			string
+	-	comment:			string
+	-	read:					bool
+
+
+Model Game:
+	-	title:				string
+	-	description:	text
+	-	publisher:		string
+	-	rating: 			string
+	-	comment:			string
+	-	played:				bool
