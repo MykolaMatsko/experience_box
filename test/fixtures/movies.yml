@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  director: MyString
+  length: MyString
+  rating: 1
+  comment: MyString
+  want: false
+
+two:
+  title: MyString
+  description: MyText
+  director: MyString
+  length: MyString
+  rating: 1
+  comment: MyString
+  want: false
