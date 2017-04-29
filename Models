@@ -4,9 +4,9 @@ Model Movie:
 	-	description:	text
 	-	director:			string
 	-	length:				string
-	-	rating: 			string
+	-	rating: 			integer
 	-	comment:			string
-	-	watched:			bool
+	-	want:			bool
 
 
 Model Book:
@@ -14,15 +14,15 @@ Model Book:
 	-	description:	text
 	-	author:				string
 	-	pages:				string
-	-	rating: 			string
+	-	rating: 			integer
 	-	comment:			string
-	-	read:					bool
+	-	want:					bool
 
 
 Model Game:
 	-	title:				string
 	-	description:	text
 	-	publisher:		string
-	-	rating: 			string
+	-	rating: 			integer
 	-	comment:			string
-	-	played:				bool
+	-	want:				bool
